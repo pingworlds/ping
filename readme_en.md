@@ -28,34 +28,28 @@ Download link.
 ## Screenshot
 
 
-####   Proxy Node
+#### proxy node
 - - 
-! [proxy node](img/points.png)
+ 
+<img src="img/points.png" alt="proxy node" width="50%"/>
 
 
-####   Network connection
-- ! 
-! [active_network_connection](img/alive_conn.png)
-
-
-! [Closed network connections](img/close_conn.png)
+#### network connection
+- 
  
 
-! [Error network connection](img/error_conn.png)
+<img src="img/alive_conn.png" alt="Active Network Connections" width="50%"/>
+<img src="img/close_conn.png" alt="Closed network connections" width="50%"/>
+<img src="img/error_conn.png" alt="Faulty network connections" width="50%"/>
+<img src="img/reject_conn.png" alt="Intercepted network connections" width="50%"/>
+ 
 
 
-! [Intercepted network connections](img/reject_conn.png)
+#### Settings
 
-
-####   Settings
-
-
-! [settings](img/settings_1.png)
-
-! [settings](img/settings_2.png)
-
-! [settings](img/settings_3.png)
-
+<img src="img/settings_1.png" alt="Settings" width="50%"/>
+<img src="img/settings_2.png" alt="Settings" width="50%"/>
+<img src="img/settings_3.png" alt="Settings" width="50%"/
  
 ## transport protocols
 
