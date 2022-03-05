@@ -21,7 +21,7 @@ ping 使用 [pong-go](https://github.com/pingworlds/pong) 作为网络核心库�
 下载链接：
 
 
- <https://github.com/pingworlds/pong-install//releases/latest/download>
+ <https://github.com/pingworlds/pong-install//releases/latest/download/ping.apk>
 
 
  
@@ -103,10 +103,3 @@ pong 支持以下代理协议：
     建议域名黑名单模式. ip白名单模式
  
  
-
-  
-
-
-      
-
-
