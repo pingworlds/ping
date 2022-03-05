@@ -15,13 +15,13 @@ ping uses [pong-go](https://github.com/pingworlds/pong) as the core network libr
 Note: ping is a proxy tool and does not provide any nodes itself.
 
 
-## Current version v0.9.0
+## Current version v1.0.0
 
 
 Download link.
 
 
- <https://github.com/pingworlds/pong-install//releases/latest/download>
+ <https://github.com/pingworlds/ping//releases/latest/download/ping.apk>
 
 
  
@@ -101,12 +101,3 @@ Try to keep the default settings, relatively stable
 - pass mode 
  
     Blacklist mode is recommended for domain names. ip whitelist mode
- 
- 
-
-  
-
-
-      
-
-
