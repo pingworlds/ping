@@ -24,6 +24,38 @@ Download link.
  <https://github.com/pingworlds/pong-install//releases/latest/download>
 
 
+
+## Screenshot
+
+
+####   Proxy Node
+- - 
+! [proxy node](img/points.png)
+
+
+####   Network connection
+- ! 
+! [active_network_connection](img/alive_conn.png)
+
+
+! [Closed network connections](img/close_conn.png)
+ 
+
+! [Error network connection](img/error_conn.png)
+
+
+! [Intercepted network connections](img/reject_conn.png)
+
+
+####   Settings
+
+
+! [settings](img/settings_1.png)
+
+! [settings](img/settings_2.png)
+
+! [settings](img/settings_3.png)
+
  
 ## transport protocols
 

@@ -21,10 +21,44 @@ ping 使用 [pong-go](https://github.com/pingworlds/pong) 作为网络核心库�
 下载链接：
 
 
- <https://github.com/pingworlds/pong-install//releases/latest/download>
+ <https://github.com/pingworlds/ping/releases/tag/v1.0.0>
 
 
+
+##  屏幕截图
+
+
+#### 代理节点
+- 
+![代理节点](img/points.png)
+
+
+
+#### 网络连接
+- 
+![活动网络连接](img/alive_conn.png)
+
+
+![已关闭的网络连接](img/close_conn.png)
  
+
+![出错的网络连接](img/error_conn.png)
+
+
+![拦截的网络连接](img/reject_conn.png)
+
+
+#### 设置
+
+
+![设置](img/settings_1.png)
+
+![设置](img/settings_2.png)
+
+![设置](img/settings_3.png)
+
+
+
 ## transport protocols
 
 支持以下传输协议：
