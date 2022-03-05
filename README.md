@@ -21,7 +21,7 @@ ping 使用 [pong-go](https://github.com/pingworlds/pong) 作为网络核心库�
 下载链接：
 
 
- <https://github.com/pingworlds/pong//releases/latest/download/ping.apk>
+ <https://github.com/pingworlds/ping//releases/latest/download/ping.apk>
 
 
  
