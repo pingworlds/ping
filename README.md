@@ -36,7 +36,7 @@ ping 使用 [pong-go](https://github.com/pingworlds/pong) 作为网络核心库�
 
 #### 网络连接
 - 
-![活动网络连接](img/alive_conn.png=200)
+![活动网络连接](img/alive_conn.png=50%*50%)
 
 
 ![已关闭的网络连接](img/close_conn.png)
