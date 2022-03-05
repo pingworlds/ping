@@ -15,13 +15,17 @@ ping 使用 [pong-go](https://github.com/pingworlds/pong) 作为网络核心库�
 注意：ping 是一个代理工具，本身不提供任何节点。
 
 
-## 当前版本 v0.9.0
+## 当前版本 v1.0.0
 
 
 下载链接：
 
 
+<<<<<<< HEAD
  <https://github.com/pingworlds/ping/releases/tag/v1.0.0>
+=======
+ <https://github.com/pingworlds/ping//releases/latest/download/ping.apk>
+>>>>>>> 191b15ee818f9c8dc7faa5a4fd06883c0e00c384
 
 
 
@@ -137,10 +141,3 @@ pong 支持以下代理协议：
     建议域名黑名单模式. ip白名单模式
  
  
-
-  
-
-
-      
-
-
