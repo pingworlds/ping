@@ -32,7 +32,9 @@ ping 使用 [pong-go](https://github.com/pingworlds/pong) 作为网络核心库�
 - 
  
 <img src="https://raw.githubusercontent.com/pingworlds/ping/main/img/points.png" alt="代理节点" width="50%"/>
-<!-- ![代理节点](https://raw.githubusercontent.com/pingworlds/ping/main/img/points.png) -->
+
+
+![代理节点](https://raw.githubusercontent.com/pingworlds/ping/main/img/points.png)
 
 #### 网络连接
 - 
