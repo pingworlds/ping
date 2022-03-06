@@ -15,7 +15,7 @@ ping 使用 [pong-go](https://github.com/pingworlds/pong) 作为网络核心库�
 注意：ping 是一个代理工具，本身不提供任何节点。
 
 
-## 当前版本 v1.0.0
+## 当前版本 v0.9.0
 
 
 下载链接：
