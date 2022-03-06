@@ -29,7 +29,7 @@ ping 使用 [pong-go](https://github.com/pingworlds/pong) 作为网络核心库�
 
 
 #### 代理节点
-- 
+
  
 <img src="https://github.com/pingworlds/ping/blob/main/img/points.png?raw=true" alt="代理节点" width="50%"/>
 
@@ -40,16 +40,16 @@ ping 使用 [pong-go](https://github.com/pingworlds/pong) 作为网络核心库�
  
 <img src="https://github.com/pingworlds/ping/blob/main/img/alive_conn.png?raw=true" alt="活动网络连接" width="50%"/>
 <img src="https://github.com/pingworlds/ping/blob/main/img/close_conn.png?raw=true" alt="已关闭的网络连接" width="50%"/>
-<img src="https://github.com/pingworlds/ping/blob/main/img/error_conn.png?raw=true"alt="出错的网络连接" width="50%"/>
-<img src="https://github.com/pingworlds/ping/blob/main/img/reject_conn.png?raw=true"alt="拦截的网络连接" width="50%"/>
+<img src="https://github.com/pingworlds/ping/blob/main/img/error_conn.png?raw=true" alt="出错的网络连接" width="50%"/>
+<img src="https://github.com/pingworlds/ping/blob/main/img/reject_conn.png?raw=true" alt="拦截的网络连接" width="50%"/>
  
 
 
 #### 设置
 
-<img src="https://github.com/pingworlds/ping/blob/main/img/settings_1.png?raw=true"alt="设置" width="50%"/>
-<img src="https://github.com/pingworlds/ping/blob/main/img/settings_2.png?raw=true" alt="设置" width="50%"/>
-<img src="https://github.com/pingworlds/ping/blob/main/img/settings_3.png?raw=true"alt="设置" width="50%"/>
+<img src="https://github.com/pingworlds/ping/blob/main/img/settings_1.png?raw=true" alt="设置"  width="50%"/>
+<img src="https://github.com/pingworlds/ping/blob/main/img/settings_2.png?raw=true" alt="设置"  width="50%"/>
+<img src="https://github.com/pingworlds/ping/blob/main/img/settings_3.png?raw=true" alt="设置"  width="50%"/>
 
  
 
