@@ -31,23 +31,23 @@ Download link.
 #### proxy node
 
 
-<img src="https://github.com/pingworlds/ping/blob/main/img/points.png?raw=true" alt="代理节点" width="50%"/>
+<img src="https://github.com/pingworlds/ping/blob/main/img/points.png" alt="代理节点" width="50%"/>
 
 
 #### network connection
 
-<img src="https://github.com/pingworlds/ping/blob/main/img/alive_conn.png?raw=true" alt="活动网络连接" width="50%"/>
-<img src="https://github.com/pingworlds/ping/blob/main/img/close_conn.png?raw=true" alt="已关闭的网络连接" width="50%"/>
-<img src="https://github.com/pingworlds/ping/blob/main/img/error_conn.png?raw=true" alt="出错的网络连接" width="50%"/>
-<img src="https://github.com/pingworlds/ping/blob/main/img/reject_conn.png?raw=true" alt="拦截的网络连接" width="50%"/>
+<img src="https://github.com/pingworlds/ping/blob/main/img/alive_conn.png" alt="活动网络连接" width="50%"/>
+<img src="https://github.com/pingworlds/ping/blob/main/img/close_conn.png" alt="已关闭的网络连接" width="50%"/>
+<img src="https://github.com/pingworlds/ping/blob/main/img/error_conn.png" alt="出错的网络连接" width="50%"/>
+<img src="https://github.com/pingworlds/ping/blob/main/img/reject_conn.png" alt="拦截的网络连接" width="50%"/>
  
 
 
 #### Settings
 
-<img src="https://github.com/pingworlds/ping/blob/main/img/settings_1.png?raw=true" alt="设置"  width="50%"/>
-<img src="https://github.com/pingworlds/ping/blob/main/img/settings_2.png?raw=true" alt="设置"  width="50%"/>
-<img src="https://github.com/pingworlds/ping/blob/main/img/settings_3.png?raw=true" alt="设置"  width="50%"/>
+<img src="https://github.com/pingworlds/ping/blob/main/img/settings_1.png" alt="设置"  width="50%"/>
+<img src="https://github.com/pingworlds/ping/blob/main/img/settings_2.png" alt="设置"  width="50%"/>
+<img src="https://github.com/pingworlds/ping/blob/main/img/settings_3.png" alt="设置"  width="50%"/>
  
 
 
