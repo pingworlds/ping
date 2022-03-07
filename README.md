@@ -132,3 +132,13 @@ pong 支持以下代理协议：
     建议域名黑名单模式. ip白名单模式
  
  
+
+##  同类应用
+
+- v2rayNG
+
+  <https://github.com/2dust/v2rayNG>
+
+- ClashForAndroid
+
+  <https://github.com/Kr328/ClashForAndroid>

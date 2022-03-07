@@ -6,7 +6,7 @@
 
 
 
-ping is an android web proxy client that supports the pong proxy protocol.
+ping is an android client that supports the pong proxy protocol.
 It is also compatible with vless,socks5,shadowsocks,qsocks proxy protocol.
 
 ping uses [pong-go](https://github.com/pingworlds/pong) as the core network library.
@@ -17,22 +17,15 @@ Note: ping is a proxy tool and does not provide any nodes itself.
 
 ## Current version v0.9.1
 
-
-Download link.
-
+Download link:
 
  <https://github.com/pingworlds/ping//releases/latest/download/ping.apk>
 
-
-
 ## Screenshot
-
 
 #### proxy node
 
-
 <img src="https://github.com/pingworlds/ping/blob/main/img/points.png" alt="代理节点" width="50%"/>
-
 
 #### network connection
 
@@ -40,8 +33,6 @@ Download link.
 <img src="https://github.com/pingworlds/ping/blob/main/img/close_conn.png" alt="已关闭的网络连接" width="50%"/>
 <img src="https://github.com/pingworlds/ping/blob/main/img/error_conn.png" alt="出错的网络连接" width="50%"/>
 <img src="https://github.com/pingworlds/ping/blob/main/img/reject_conn.png" alt="拦截的网络连接" width="50%"/>
- 
-
 
 #### Settings
 
@@ -49,11 +40,6 @@ Download link.
 <img src="https://github.com/pingworlds/ping/blob/main/img/settings_2.png" alt="设置"  width="50%"/>
 <img src="https://github.com/pingworlds/ping/blob/main/img/settings_3.png" alt="设置"  width="50%"/>
  
-
-
-      
-     
-
  
 ## transport protocols
 
@@ -131,3 +117,15 @@ Try to keep the default settings, relatively stable
 - pass mode 
  
     Blacklist mode is recommended for domain names. ip whitelist mode
+
+
+
+## Similar Projects
+
+- v2rayNG
+
+  <https://github.com/2dust/v2rayNG>
+
+- ClashForAndroid
+
+  <https://github.com/Kr328/ClashForAndroid>
