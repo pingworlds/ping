@@ -15,7 +15,7 @@ ping uses [pong-go](https://github.com/pingworlds/pong) as the core network libr
 Note: ping is a proxy tool and does not provide any nodes itself.
 
 
-## Current version v0.9.0
+## Current version v0.9.1
 
 
 Download link.
